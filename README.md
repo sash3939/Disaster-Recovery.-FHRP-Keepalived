@@ -1,4 +1,4 @@
-![image](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/bc9186a4-81ce-465b-80d1-27204838bd66)![image](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/7d7d5f84-6bb3-4bfb-ada6-99007be98f9c)# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
+# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
 
 ### Цель задания
 В результате выполнения этого задания вы научитесь:
