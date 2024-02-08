@@ -1,4 +1,4 @@
-![image](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/7d7d5f84-6bb3-4bfb-ada6-99007be98f9c)# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
+![image](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/bc9186a4-81ce-465b-80d1-27204838bd66)![image](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/7d7d5f84-6bb3-4bfb-ada6-99007be98f9c)# Домашнее задание к занятию 1 «Disaster recovery и Keepalived»
 
 ### Цель задания
 В результате выполнения этого задания вы научитесь:
@@ -47,7 +47,10 @@
 
 [simulation](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/7ec9e1f4-ed46-471b-92e5-99c05408ed84)
 [simulation1](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/3b55fd7e-db43-4c3a-8912-539457e4f2cd)
-![Uploading image.png…]()
+[simulation2](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/0967730f-7933-4dd5-975b-450449ff5bee)
+
+
+
 
 
 
