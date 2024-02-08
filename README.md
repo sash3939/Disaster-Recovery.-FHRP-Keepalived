@@ -43,7 +43,7 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
 ### Решение 1
-![settings](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/6f1af2c2-c851-4a01-81c0-6350e95d3dfe)
+[settings](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/6f1af2c2-c851-4a01-81c0-6350e95d3dfe)
 
 [simulation](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/7ec9e1f4-ed46-471b-92e5-99c05408ed84)
 [simulation1](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/3b55fd7e-db43-4c3a-8912-539457e4f2cd)
