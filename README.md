@@ -54,9 +54,12 @@
 
 ### Решение 2
 
-[check.sh](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/3b0a4be6-9334-4eae-91ac-af9e66f2ec1b)
+[check.sh](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/18f271c7-25d3-4354-8dcb-f4376625d7bf)
 
-[check_web_server](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/1da9b126-4b62-4d01-9884-665d23f78cc3)
+
+[conf keepalived](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/5aa8ac90-6f1c-43ee-8e29-dd7fd5cc20df)
+
+[interval](https://github.com/sash3939/Disaster-Recovery.-FHRP-Keepalived/assets/156709540/911baae0-ac15-4329-b7c0-900404b35d42)
 
 
 ------
